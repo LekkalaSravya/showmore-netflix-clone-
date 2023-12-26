@@ -1,0 +1,17 @@
+button{
+    background-color: red;
+    color:white;
+}
+button:hover{
+    background-color:green;
+    color:white;
+}
+img{
+    width: 100%;
+}
+h5{
+    color:red;
+}
+p{
+    color:white;
+}
